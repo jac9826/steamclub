@@ -1,0 +1,92 @@
+body {
+	font-family: "Helvetica", sans-serif;
+	background: url("back.jpg") fixed no-repeat;
+	background-size: cover;
+}
+
+#links{
+	text-align: center;
+	margin-top: 20px;
+}
+
+#links a {
+	padding: 15px 5px;
+	color: white;
+	text-shadow: 0px 0px 4px #000000;
+	border-radius: 5px;
+	text-decoration: none;
+	font-size: 19pt;
+	
+	background-size: cover;
+}
+
+#logo{
+    border-radius: 5px;
+    
+}
+#links a:hover{
+	background-image: url("fruit.gif");
+}
+
+#content {
+	width: calc(100% - 30px);
+	max-width: 700px;
+	height: ;
+	margin: auto;
+	background: rgba(255, 255, 255, 0.7);
+	padding: 15px;
+    border-radius: 25px;
+}
+
+h2{
+	font-size: 16pt;
+    text-align: center;
+    text-shadow: 0px 0px 4px white;
+}
+h3{
+	text-align: center;}
+    
+h4{
+	text-align: center;}
+
+p{
+font-size: 17pt;
+    
+}
+#homepage{
+	width: 100%;
+	margin: auto;
+}
+
+
+#title{
+	margin: 0;
+	text-align: center
+}
+
+#spreadsheet{
+	width: 100%;
+	height: 500px;
+	background: none;
+	border: none;
+    border-radius: 5px;
+}
+#map{
+	border-radius: 5px;
+	width: 100%;
+    border-radius: 5px;
+	}
+#first{
+    width: 100%;
+	margin: auto;
+}
+
+#plant{
+    width: 100%;
+	margin: auto;
+    image-orientation: 90deg;
+}
+#plant1{
+    width: 100%;
+	margin: auto;
+}
